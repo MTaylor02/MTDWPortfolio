@@ -3,9 +3,33 @@ description: >-
   Everything you need to build, deploy, and manage your projects on the
   platform.
 icon: hand-wave
+cover: >-
+  https://images.unsplash.com/photo-1557264337-e8a93017fe92?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxkYXJrJTIwdGVjaHxlbnwwfHx8fDE3ODE3MTcxNjR8MA&ixlib=rb-4.1.0&q=85
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# Welcome
+# Knowledge + Documentation + AI  All at Enterprise Scale
 
 Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
 
